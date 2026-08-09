@@ -99,5 +99,6 @@ Built using **Base44**, an AI-assisted no-code/low-code application builder. The
 
 ---
 
-Screenshots
+## Screenshots
+
 See the screenshots/ folder in this repository for a walkthrough of the app's Dashboard, Curriculum browser, Topic pages, AI Tutor, Quiz flow, Search, Resource Library, Activity Record, and Account Settings.
